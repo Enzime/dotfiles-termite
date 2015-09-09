@@ -1,0 +1,7 @@
+*
+!/.config
+!/.config/termite
+!/.config/termite/config
+!/.dircolors
+!/.gitignore.d
+!/.gitignore.d/termite
