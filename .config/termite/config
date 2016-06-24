@@ -1,5 +1,6 @@
 [options]
 font = Monaco 10
+#font = Meslo LG L 10
 #font = Fira Mono 10
 
 [colors]
