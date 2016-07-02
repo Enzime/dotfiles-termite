@@ -1,4 +1,6 @@
 [options]
+scrollback_lines = -1
+
 font = Monaco 10
 #font = Meslo LG L 10
 #font = Fira Mono 10
