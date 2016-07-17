@@ -1,4 +1,5 @@
 [options]
+clickable_url = false
 scrollback_lines = -1
 
 font = Monaco 10
